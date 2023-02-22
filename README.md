@@ -1,4 +1,4 @@
-# Discord Clone made with Create React App and Redux
+# Discord Clone
 
 Dark chat-app that allows you to create channels and login with a google account
 
