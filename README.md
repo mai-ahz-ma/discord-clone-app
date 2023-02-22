@@ -1,6 +1,9 @@
 # Discord Clone made with Create React App and Redux
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+Dark chat-app that allows you to create channels and login with a google account
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/), [Redux Toolkit](https://redux-toolkit.js.org/) template, and [Firebase](https://firebase.google.com)
+
 
 ## Available Scripts
 
